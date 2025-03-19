@@ -29,7 +29,11 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m                 JESVPN TUNNELING\033[0m"
+echo -e "${CYAN}                 SCRIPT PREMIUM JESVPN${NC}"
+echo -e "${YELLOW}----------------------------------------------------------${NC}"
+echo ""
+echo -e "${CYAN} Selamat datang di JESVPN Tunneling!${NC}"
+echo -e "${CYAN} Nikmati koneksi aman dan cepat bersama kami.${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 while true; do
@@ -311,7 +315,7 @@ TEXT="
 <code>Ip vps : </code><code>$MYIP</code>
 <code>Exp Sc : </code><code>$EXPSC</code>
 <code>User   : </code><code>root</code>
-────────────────────</code>
+<code>────────────────────</code>
 <i>Notifikasi Otomatis Dari Github </i>
 "'&reply_markup={"inline_keyboard":[[{"text":"Order","url":"https://t.me/JesVpnt"},{"text":"Contack","url":"https://wa.me/6285888801241"}]]}'
 curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
