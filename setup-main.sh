@@ -20,8 +20,8 @@ green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="516269541"
-KEY="6778508111:AAGmlVVIOA0z4kgLHoA1gD7Hf-maAi9vCQ"
+CHATID="-1002029496202"
+KEY="6668909715:AAHdCAC0NPVuXFjWEdueA2VvkkMl5Ie1WRQ"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 export IP=$( curl -sS icanhazip.com )
@@ -29,7 +29,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m                  JES VPN TUNNELING\033[0m"
+echo -e "\033[96;1m                 JESVPN TUNNELING\033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 while true; do
@@ -319,11 +319,11 @@ TEXT="
 ║▌║║▌║▌║║▌║║▌║▌║║▌║║
 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 :
 💬𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠
-☞ @WendiVpn
+☞ @JesVpnt
 💬𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣
-☞ +6283153170199</code>
+☞ 62858888801241</code>
 <i>Simpan Baik-baik informasi ini tidak akan di kirim Ulang </i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/wendivpn"},{"text":"Contack","url":"https://wa.me/6283153170199"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/JesVpnt"},{"text":"Contack","url":"https://wa.me/6285888801241"}]]}'
 curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 clear
