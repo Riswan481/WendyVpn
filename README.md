@@ -8,7 +8,7 @@
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl unzip && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Riswan481/WendyVpn/ABSTRAK/setup-main.sh && chmod +x setup-main.sh && sed -i -e 's/\r$//' setup-main.sh && screen -S setupku ./setup-main.sh</code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/bowowiwendi/WendyVpn/ABSTRAK/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Riswan481/WendyVpn/ABSTRAK/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### BOT DO
 <pre><code>wget https://raw.githubusercontent.com/bowowiwendi/WendyVpn/refs/heads/ABSTRAK/bot/install.sh && chmod +x install.sh && ./install.sh</code></pre>
@@ -42,9 +42,9 @@
 ```
 ### Author
 ```
-Wendivpn
+JESVPN TUNNEL
 ```
-WENDI VPN TUNNEL:
+JESVPN TUNNEL:
 
 <a href="https://t.me/WendiVpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
