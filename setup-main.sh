@@ -31,7 +31,6 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "${CYAN}                 SCRIPT PREMIUM JESVPN${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo ""
 echo -e "${CYAN} Selamat datang di JESVPN Tunneling!${NC}"
 echo -e "${CYAN} Nikmati koneksi aman dan cepat bersama kami.${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
