@@ -10,14 +10,8 @@
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/Riswan481/WendyVpn/ABSTRAK/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-### BOT DO
-<pre><code>wget https://raw.githubusercontent.com/bowowiwendi/WendyVpn/refs/heads/ABSTRAK/bot/install.sh && chmod +x install.sh && ./install.sh</code></pre>
-
 ### SLOW DNS
 <pre><code>wget https://raw.githubusercontent.com/fisabiliyusri/SLDNS/main/slowdns/install-sldns && chmod +x install-sldns && ./install-sldns</code></pre>
-
-### UNINSTALL SC
-<pre><code>wget https://raw.githubusercontent.com/bowowiwendi/WendyVpn/refs/heads/ABSTRAK/uninstall.sh && chmod +x uninstall.sh && ./uninstall.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20
@@ -42,14 +36,13 @@
 ```
 ### Author
 ```
-JESVPN TUNNEL
+SUCCESSFUL ✓
 ```
 JESVPN TUNNEL:
 
-<a href="https://t.me/WendiVpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-```
-WA: 083153170199
-```
-```
-TELE: @WENDIVPN
-```
+<a href="https://t.me/JesVpnt" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue">
+</a><br>
+<img src="https://i.imghippo.com/files/QIWn8512HX.jpg" alt="Additional Image">
+</a><br>
+<img src="https://i.imghippo.com/files/cNi1986HgM.jpg" alt="Additional Image">
