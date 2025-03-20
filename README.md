@@ -49,6 +49,5 @@ JESVPN TUNNEL:
 <a href="https://t.me/JesVpnt" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue">
 </a><br>
-<img src="https://i.imghippo.com/files/krf9150FM.jpg" alt="Additional Image">
+<img src="https://i.imghippo.com/files/vuV3005qM.jpg" alt="Additional Image">
 </a><br>
-<img src="https://i.imghippo.com/files/Rfn7163R.jpg" alt="Additional Image">
