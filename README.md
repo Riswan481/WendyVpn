@@ -18,19 +18,6 @@
 <p align="center"><img src="https://img.shields.io/badge/Service-XRAY_VLESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg"> <img src= "https://img.shields.io/badge/Service-Websocket-success.svg"> <img src= "https://img.shields.io/badge/Service-GRPC-success.svg"> <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 <p <p align="center"><img src="https://img.shields.io/badge/Service-Webmin-success.svg"> <img src="https://img.shields.io/badge/Service-Helium-success.svg">
 <p <p align="center"><img src="https://wangchujiang.com/sb/status/stable.svg">
-# UP REPO DEBIAN
-<pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-# UP REPO UBUNTU
-<pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
-
-### INSTALL SCRIPT 
-<pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl unzip && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Riswan481/WendyVpn/ABSTRAK/setup-main.sh && chmod +x setup-main.sh && sed -i -e 's/\r$//' setup-main.sh && screen -S setupku ./setup-main.sh</code></pre>
-
-### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/Riswan481/WendyVpn/ABSTRAK/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
-
-### SLOW DNS
-<pre><code>wget https://raw.githubusercontent.com/fisabiliyusri/SLDNS/main/slowdns/install-sldns && chmod +x install-sldns && ./install-sldns</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20
