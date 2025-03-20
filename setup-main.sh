@@ -307,13 +307,13 @@ TEXT="
 <code>────────────────────</code>
     <b>✨ DETAIL VPS ANDA ✨</b>
 <code>────────────────────</code>
-<code>ID     : </code><code>$USRSC</code>
+<code>user   : </code><code>$USRSC</code>
 <code>Domain : </code><code>$domain</code>
 <code>Date   : </code><code>$TIME</code>
 <code>Time   : </code><code>$TIMEZONE</code>
 <code>Ip vps : </code><code>$MYIP</code>
 <code>Exp Sc : </code><code>$EXPSC</code>
-<code>User   : </code><code>root</code>
+<code>Script : </code><code>Premium</code>
 <code>────────────────────</code>
 <i>Notifikasi Otomatis Dari Github </i>
 "'&reply_markup={"inline_keyboard":[[{"text":"Order","url":"https://t.me/JesVpnt"},{"text":"Contack","url":"https://wa.me/6285888801241"}]]}'
